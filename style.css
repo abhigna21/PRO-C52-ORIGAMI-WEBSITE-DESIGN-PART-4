@@ -1,0 +1,110 @@
+* {
+  background-color: #95cf6b;
+  font-family: cursive, fantasy, serif,bold,Arial, Helvetica, sans-serif;
+  margin: 0px;
+}
+
+.head{
+      
+    background-color:rgb(228, 90, 36);
+    border:solid;
+     }
+
+  .grid {
+    background: darkred;
+    background-color: #97c7f0;
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row;
+    text-align:center;
+    flex-wrap:wrap;
+  }
+  
+  .camel {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#18e2b6;
+  }
+  
+  
+  .chameleon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#18e2b6;
+  }
+  
+  .cicada {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#18e2b6;
+  }
+  
+  .panda {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#18e2b6;
+  }
+  
+  .pigeon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#18e2b6;
+  }
+  
+  .teddy {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#18e2b6;
+  }
+
+
+  .menu{
+    display:flex;
+    justify-content:space-between;
+    background-color:#00ffdd;
+    font-size:20px;
+    font-family:sans-serif;
+    font-weight:200;
+    color:#97c7f0
+
+  }
+  body{
+    background: rgb(0, 0, 255);
+    color: rgb(0, 0, 0);
+}
+
+a:link{
+  color:pink
+}
+a:visited{
+  color:pink
+}
+
+.orgam:hover{
+   
+  transform:scale(1.2);
+}
